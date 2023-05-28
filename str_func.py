@@ -6,3 +6,4 @@ def up_str(string):
 def up_first_letter(string):
     """возвращает строку с заглавными первыми буквами"""
     return string.title()
+    
